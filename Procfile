@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -Dserver.port=$PORT -cp target/RepBot-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.github.r0306.RepBot.RepBot

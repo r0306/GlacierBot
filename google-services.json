@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "146397802090",
+    "firebase_url": "https://glacierbot-d0084.firebaseio.com",
+    "project_id": "glacierbot-d0084",
+    "storage_bucket": "glacierbot-d0084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146397802090:android:b1a5062c3ab336e5",
+        "android_client_info": {
+          "package_name": "com.github.r0306.GlacierBot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146397802090-idrm3ihdcute84epqk8s7j4c0261gj7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIX2I45rza7tCUTeFvh8ruMpcSr3h-OuY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
